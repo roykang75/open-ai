@@ -1,0 +1,5 @@
+openai:
+  model: gpt-4o-mini
+  api:
+    key: <your-api-key>
+    url: https://api.openai.com/v1/chat/completions
